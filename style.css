@@ -8,7 +8,7 @@ html {
   position: relative;
 }
 body {
-  padding-top: 80px;
+  padding-top: 60px;
 }
 /*navbar*/
 .navbar {
@@ -43,8 +43,8 @@ body {
 }
 /*bagian home*/
 #gallery {
-  background-color: #fcf6bd;
-  padding: 70px;
+  background-color: #f5e7ca;
+  padding: 25px;
 }
 
 #sectionSatu {
@@ -54,6 +54,13 @@ body {
 #sectionDua {
   margin-top: 70px;
 }
+
+#intro {
+  padding: 30px;
+  background-color: #fcf6bd;
+  color: black;
+}
+
 /*search*/
 .form {
   display: flex;
@@ -112,7 +119,7 @@ body {
 }
 h2 {
   font-family: Merriweather;
-  color: white;
+  color: black;
 }
 h4 {
   font-family: Fredoka One;
@@ -130,6 +137,18 @@ p {
   font-size: large;
   padding-top: 20px;
 }
+
+/*bagian eventin*/
+.divisi {
+  text-align: left;
+  font-family: Scheherazade;
+}
+
+.divisikanan {
+  text-align: right;
+  font-family: Scheherazade;
+}
+
 /*bagian visi misi*/
 .section1 {
   background-color: #fcf6bd;
