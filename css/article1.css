@@ -1,0 +1,20 @@
+h2 {
+  font-family: Merriweather;
+  color: black;
+}
+h4 {
+  font-family: Fredoka One;
+  font-size: 20px;
+  color: #ff758f;
+}
+h5 {
+  color: #777474;
+  font-size: small;
+  padding-top: 10px;
+}
+p {
+  letter-spacing: 2px;
+  font-family: Scheherazade;
+  font-size: large;
+  padding-top: 20px;
+}

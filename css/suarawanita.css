@@ -1,0 +1,38 @@
+/* suara wanita */
+.suarawanita .card:hover {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  transform: scale(1.02);
+  background-color: #e9ecef;
+}
+h2 {
+  font-family: Merriweather;
+  color: black;
+}
+h4 {
+  font-family: Fredoka One;
+  font-size: 20px;
+  color: #ff758f;
+}
+h5 {
+  color: #777474;
+  font-size: small;
+  padding-top: 10px;
+}
+p {
+  letter-spacing: 2px;
+  font-family: Scheherazade;
+  font-size: large;
+  padding-top: 20px;
+}
+
+/*Hero Suara Wanita*/
+.sectionTiga {
+  background-image: url(img/gambar1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+  width: 100%;
+}
+#textSuara {
+  margin-top: 100px;
+}

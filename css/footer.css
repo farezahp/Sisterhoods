@@ -1,0 +1,44 @@
+/*sosmed bagian footer*/
+.sosmed {
+  text-align: center;
+  background-color: #f5e7ca;
+  padding-bottom: 5px;
+  border-top: 5px solid black;
+  color: #f59cb4;
+  font-family: Montserrat;
+  padding-top: 20px;
+  width: 100vw;
+}
+
+.sosmed a {
+  display: block;
+  color: black;
+}
+
+#ig {
+  width: 35px;
+  height: 35px;
+  margin-top: 15px;
+  margin-left: -65px;
+}
+
+#lk {
+  width: 35px;
+  height: 35px;
+  margin-top: -65px;
+  margin-left: 55px;
+}
+/*footer*/
+footer {
+  width: 100vw;
+  height: 100px;
+  color: black;
+  background-color: #fcf6bd;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .allcard {
+    margin: 0 auto;
+  }
+}

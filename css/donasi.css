@@ -1,0 +1,27 @@
+.container-donation {
+  padding: 100px;
+  height: 700px;
+}
+.donation {
+  margin-top: 50px;
+  display: flex;
+  justify-content: left;
+}
+.text {
+  width: 700px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: left;
+}
+.container-right {
+  padding: 10px;
+}
+.container-right img {
+  margin-right: 0px;
+  display: flex;
+  justify-content: left;
+}
+.container-filldonate {
+  height: 2000;
+  background-color: #f5e7ca80;
+}

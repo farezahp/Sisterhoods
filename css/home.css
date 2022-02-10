@@ -1,0 +1,39 @@
+/*bagian home*/
+#gallery {
+  background-color: #f5e7ca;
+  padding: 25px;
+}
+
+#sectionSatu {
+  background-color: #fcf6bd;
+  color: black;
+}
+#sectionDua {
+  margin-top: 70px;
+}
+
+#intro {
+  padding: 30px;
+  background-color: #fcf6bd;
+  color: black;
+}
+h2 {
+  font-family: Merriweather;
+  color: black;
+}
+h4 {
+  font-family: Fredoka One;
+  font-size: 20px;
+  color: #ff758f;
+}
+h5 {
+  color: #777474;
+  font-size: small;
+  padding-top: 10px;
+}
+p {
+  letter-spacing: 2px;
+  font-family: Scheherazade;
+  font-size: large;
+  padding-top: 20px;
+}
