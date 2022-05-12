@@ -4,6 +4,18 @@
   font-weight: bold;
   font-family: Merriweather;
 }
+.getin-title {
+  display: block;
+  text-align: center;
+  margin-bottom: 35px;
+}
+.cons-wrap {
+  display: flex;
+}
+.cons {
+  display: flex;
+  flex-direction: column;
+}
 .container-getin {
   background-color: #fff9c1;
   padding: 40px;
@@ -22,9 +34,13 @@
   font-family: Merriweather;
   text-align: center;
   font-weight: bold;
+  font-size: large;
   width: 300px;
 }
 .text p {
   width: 200px;
   text-align: center;
+}
+.sectionTiga {
+  height: auto;
 }
