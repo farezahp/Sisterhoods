@@ -15,9 +15,10 @@
 }
 .container-right {
   padding: 10px;
+  height: 300px;
 }
 .container-right img {
-  margin-right: 0px;
+  margin-bottom: 10px;
   display: flex;
   justify-content: left;
 }

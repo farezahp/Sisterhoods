@@ -1,5 +1,30 @@
-/*Submit Article*/
-#subArticle {
-  padding-top: 30px;
-  background-color: #ccd6ee;
+.row h1 {
+  text-align: center;
+  padding-bottom: 70px;
+  font-weight: bold;
+  font-family: Merriweather;
+}
+.container-getin {
+  background-color: #fff9c1;
+  padding: 40px;
+}
+.more-ways {
+  text-align: center;
+}
+.more-ways img {
+  weight: 180px;
+  height: 180px;
+  margin-bottom: 30px;
+  display: flexbox;
+  flexbox: center;
+}
+.more-ways h3 {
+  font-family: Merriweather;
+  text-align: center;
+  font-weight: bold;
+  width: 300px;
+}
+.text p {
+  width: 200px;
+  text-align: center;
 }
